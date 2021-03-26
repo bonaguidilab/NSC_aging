@@ -1,0 +1,5 @@
+load("/Users/maxwellbay/Projects/Waterfall/data/aging/velocity_groups/aging_vectors/new_coords/o_coords_g.rds")
+o_coords_g
+out = readRDS("/Users/maxwellbay/Projects/Waterfall/data/aging/velocity_groups/aging_vectors/new_coords/o_coords_g.rds")
+out
+out$arrows4
